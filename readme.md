@@ -1,6 +1,6 @@
-# Create SOL Token and NFT on Solana Devnet
+# Create NFT on Solana Devnet
 
-This project demonstrates how to create a SOL token, NFT, and verify the NFT as part of a collection on the Solana Devnet.
+This project demonstrates how to create a NFT, and verify the NFT as part of a collection on the Solana Devnet.
 
 ## Steps to Run the Project
 
